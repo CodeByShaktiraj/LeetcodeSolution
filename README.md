@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0220-contains-duplicate-iii) |
 | [0904-fruit-into-baskets](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1004-max-consecutive-ones-iii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0220-contains-duplicate-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0220-contains-duplicate-iii) |
 | [0424-longest-repeating-character-replacement](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1004-max-consecutive-ones-iii) |
@@ -125,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0187-repeated-dna-sequences) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
