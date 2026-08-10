@@ -1,13 +1,13 @@
 class Solution {
     public int longestSubstring(String s, int k) {
-        HashMap<Character,Integer> map = new HashMap<>();
+int[]fre=new int[26];
 
         for (char c : s.toCharArray()) {
-          map.put(c, map.getOrDefault(c, 0) + 1);
-}
+                 fre[c-'a']++;
+                 }
 
         for(int i=0;i<s.length();i++){
-                  if(map.get(s.charAt(i))<k){
+                  if(fre[s.charAt(i)-'a']<k){
                     int left = longestSubstring(s.substring(0, i), k);
 
                      int right = longestSubstring(s.substring(i + 1), k);
