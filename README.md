@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0009-palindrome-number) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1040-moving-stones-until-consecutive-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1004-max-consecutive-ones-iii) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1040-moving-stones-until-consecutive-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0220-contains-duplicate-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1040-moving-stones-until-consecutive-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1004-max-consecutive-ones-iii) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1040-moving-stones-until-consecutive-ii) |
 ## Prefix Sum
 |  |
 | ------- |
