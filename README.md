@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0009-palindrome-number) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
