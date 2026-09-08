@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0020-valid-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
 | ------- |
@@ -175,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0594-longest-harmonious-subsequence) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
