@@ -1,16 +1,9 @@
 class Solution {
     public int countStudents(int[] students, int[] sandwiches) {
-        int zero=0;
-        int one=0;
+      int arr[]=new int [2];
         Queue<Integer> q=new LinkedList<>();
         for(int i=0;i<students.length;i++){
-            if(students[i]==0){
-                zero++;
-            }
-            else{
-                 one++;
-            }
-
+           arr[students[i]]++;
             q.add(students[i]);
 
         }
@@ -18,24 +11,18 @@ class Solution {
 
         while(i<sandwiches.length){
             int num=q.remove();
-            if(num==sandwiches[i]){
+            int sand=sandwiches[i];
+            if(num==sand){
                 i++;
-                if(num==0){
-                    zero--;
-                }else{
-                    one--;
-                }
+               arr[sand]--;
                 continue;
             }
             if(i==sandwiches.length)return 0;
 
-            if(sandwiches[i]==0){
-                if(zero<=0)return one;
-            }
-
-            if(sandwiches[i]==1){
-                if(one<=0)return zero;
-            }
+          if(arr[sand]==0){
+           if(sand==0)return arr[1];
+           return arr[0];
+          }
 
             q.add(num);
 
