@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0009-palindrome-number) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2413-smallest-even-multiple](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/2413-smallest-even-multiple) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
