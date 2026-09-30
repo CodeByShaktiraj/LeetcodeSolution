@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0202-happy-number) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0202-happy-number) |
 | [0658-find-k-closest-elements](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
