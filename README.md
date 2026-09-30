@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0234-palindrome-linked-list) |
 | [0658-find-k-closest-elements](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
