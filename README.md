@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0220-contains-duplicate-iii) |
+| [0455-assign-cookies](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0658-find-k-closest-elements) |
@@ -70,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0220-contains-duplicate-iii) |
+| [0455-assign-cookies](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0977-squares-of-a-sorted-array) |
@@ -219,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0202-happy-number) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
