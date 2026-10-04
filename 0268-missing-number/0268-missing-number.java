@@ -1,6 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
+        // Intuition: after sorting, nums[i] should equal i
+        int n = nums.length;
+        int num = n;
+
+        for(int i=0;i<n;i++){
+            num ^= i^nums[i];
+        }
+        return num;
+        /*HashSet<Integer> set = new HashSet<>();
         for(int i=0;i<nums.length;i++){
                 set.add(nums[i]);
         }
@@ -11,5 +19,6 @@ class Solution {
            }
         
          return -1;
+         */
     }
 }
