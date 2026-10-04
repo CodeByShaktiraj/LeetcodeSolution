@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0268-missing-number) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0220-contains-duplicate-iii) |
+| [0268-missing-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0220-contains-duplicate-iii) |
+| [0268-missing-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0658-find-k-closest-elements) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
@@ -165,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0268-missing-number) |
 ## Rolling Hash
 |  |
 | ------- |
