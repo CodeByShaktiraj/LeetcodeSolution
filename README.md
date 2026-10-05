@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
+| [1763-longest-nice-substring](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 ## Trie
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1040-moving-stones-until-consecutive-ii) |
+| [1763-longest-nice-substring](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,12 +168,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0904-fruit-into-baskets) |
+| [1763-longest-nice-substring](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0268-missing-number) |
+| [1763-longest-nice-substring](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
