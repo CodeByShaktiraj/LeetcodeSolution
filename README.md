@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2413-smallest-even-multiple](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/2413-smallest-even-multiple) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
 | [1763-longest-nice-substring](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Trie
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Prefix Sum
 |  |
 | ------- |
