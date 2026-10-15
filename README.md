@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1652-defuse-the-bomb) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0904-fruit-into-baskets) |
 | [1763-longest-nice-substring](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -259,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0455-assign-cookies) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
