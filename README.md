@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0594-longest-harmonious-subsequence) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0904-fruit-into-baskets) |
