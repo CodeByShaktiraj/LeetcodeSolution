@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0142-linked-list-cycle-ii) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -273,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/CodeByShaktiraj/LeetcodeSolution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
